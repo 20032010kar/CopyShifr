@@ -1,0 +1,14 @@
+C:\Users\Карина\source\repos\ProcessRunner\ProcessRunner\bin\Debug\net10.0\ProcessRunner.exe
+C:\Users\Карина\source\repos\ProcessRunner\ProcessRunner\bin\Debug\net10.0\ProcessRunner.deps.json
+C:\Users\Карина\source\repos\ProcessRunner\ProcessRunner\bin\Debug\net10.0\ProcessRunner.runtimeconfig.json
+C:\Users\Карина\source\repos\ProcessRunner\ProcessRunner\bin\Debug\net10.0\ProcessRunner.dll
+C:\Users\Карина\source\repos\ProcessRunner\ProcessRunner\bin\Debug\net10.0\ProcessRunner.pdb
+C:\Users\Карина\source\repos\ProcessRunner\ProcessRunner\obj\Debug\net10.0\ProcessRunner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Карина\source\repos\ProcessRunner\ProcessRunner\obj\Debug\net10.0\ProcessRunner.AssemblyInfoInputs.cache
+C:\Users\Карина\source\repos\ProcessRunner\ProcessRunner\obj\Debug\net10.0\ProcessRunner.AssemblyInfo.cs
+C:\Users\Карина\source\repos\ProcessRunner\ProcessRunner\obj\Debug\net10.0\ProcessRunner.csproj.CoreCompileInputs.cache
+C:\Users\Карина\source\repos\ProcessRunner\ProcessRunner\obj\Debug\net10.0\ProcessRunner.dll
+C:\Users\Карина\source\repos\ProcessRunner\ProcessRunner\obj\Debug\net10.0\refint\ProcessRunner.dll
+C:\Users\Карина\source\repos\ProcessRunner\ProcessRunner\obj\Debug\net10.0\ProcessRunner.pdb
+C:\Users\Карина\source\repos\ProcessRunner\ProcessRunner\obj\Debug\net10.0\ProcessRunner.genruntimeconfig.cache
+C:\Users\Карина\source\repos\ProcessRunner\ProcessRunner\obj\Debug\net10.0\ref\ProcessRunner.dll

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ProcessRunner/ProcessRunner.csproj" />
+  <Project Path="WorkerProcess/WorkerProcess.csproj" />
+</Solution>

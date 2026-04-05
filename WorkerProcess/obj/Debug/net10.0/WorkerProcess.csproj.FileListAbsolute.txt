@@ -1,0 +1,14 @@
+C:\Users\Карина\source\repos\ProcessRunner\WorkerProcess\bin\Debug\net10.0\WorkerProcess.exe
+C:\Users\Карина\source\repos\ProcessRunner\WorkerProcess\bin\Debug\net10.0\WorkerProcess.deps.json
+C:\Users\Карина\source\repos\ProcessRunner\WorkerProcess\bin\Debug\net10.0\WorkerProcess.runtimeconfig.json
+C:\Users\Карина\source\repos\ProcessRunner\WorkerProcess\bin\Debug\net10.0\WorkerProcess.dll
+C:\Users\Карина\source\repos\ProcessRunner\WorkerProcess\bin\Debug\net10.0\WorkerProcess.pdb
+C:\Users\Карина\source\repos\ProcessRunner\WorkerProcess\obj\Debug\net10.0\WorkerProcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Карина\source\repos\ProcessRunner\WorkerProcess\obj\Debug\net10.0\WorkerProcess.AssemblyInfoInputs.cache
+C:\Users\Карина\source\repos\ProcessRunner\WorkerProcess\obj\Debug\net10.0\WorkerProcess.AssemblyInfo.cs
+C:\Users\Карина\source\repos\ProcessRunner\WorkerProcess\obj\Debug\net10.0\WorkerProcess.csproj.CoreCompileInputs.cache
+C:\Users\Карина\source\repos\ProcessRunner\WorkerProcess\obj\Debug\net10.0\WorkerProcess.dll
+C:\Users\Карина\source\repos\ProcessRunner\WorkerProcess\obj\Debug\net10.0\refint\WorkerProcess.dll
+C:\Users\Карина\source\repos\ProcessRunner\WorkerProcess\obj\Debug\net10.0\WorkerProcess.pdb
+C:\Users\Карина\source\repos\ProcessRunner\WorkerProcess\obj\Debug\net10.0\WorkerProcess.genruntimeconfig.cache
+C:\Users\Карина\source\repos\ProcessRunner\WorkerProcess\obj\Debug\net10.0\ref\WorkerProcess.dll
